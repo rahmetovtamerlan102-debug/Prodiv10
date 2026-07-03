@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+lxml==5.2.2
+telethon
+git+https://github.com/CAPTHAIN/telegram_gift_fetcher.git
